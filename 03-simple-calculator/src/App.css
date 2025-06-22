@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.calc-btn {
+  @apply bg-gray-200 text-xl font-semibold py-3 rounded-xl hover:bg-gray-300;
+}
