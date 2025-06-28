@@ -12,6 +12,6 @@ export const quiz = [
       {
     question: "Which language runs in the browser?",
     options: ["Python", "Java", "C++", "JavaScript"],
-    answer: "JavaScript",
+    correctAnswer: "JavaScript",
   },
 ]
