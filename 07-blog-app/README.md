@@ -1,18 +1,7 @@
-Common confusing concepts (bataa do inmein se kya unclear hai ya apna likho):
+ News Blog App
 
-useParams() kaam kaise karta hai?
+Blog post list → detail view
 
-:id route path kya hota hai?
+Routing (react-router-dom)
 
-Outlet kis liye use hota hai?
-
-createBrowserRouter vs BrowserRouter
-
-Link vs NavLink
-
-Routing with dummy data
-
-Nested routes ka concept
-
-How to send props or state between pages?
-
+Dummy data or API
