@@ -1,10 +1,13 @@
-import Test from "./component/test";
+import CartSummary from "./component/CartSummary";
+import ProductList from "./component/productList";
+
 
 function App() {
   return (
     <div>
       <h1>hi</h1>
-      <Test/>
+      <ProductList/>
+      <CartSummary/>
     </div>
   );
 }
