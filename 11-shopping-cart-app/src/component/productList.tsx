@@ -18,7 +18,7 @@ console.log(cartContext)
             <p>
                 {items.name} - Rs. {items.price}
             </p>
-            <button onClick={()=>value.dispatch({type:"ADD_TO_CART"})}>
+            <button onClick={()=>value.dispatch({type:"ADD_TO_CART", payload: items })}>
                 Add To cart
             </button>
         </div>
